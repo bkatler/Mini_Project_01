@@ -26,6 +26,24 @@
         3. `description #To *Switch #*`
         4. `no shut`
         5. `write memory`      
-4. Test connection by pinging end devices on a different LAN
+4. Add default gateway to all end devices and hosts
+5. Test connection by pinging end devices on a different LAN
 
+## Configuration FAQ
 
+### Recommended Practices
+1. Label all hardware (duct tape and a marker works fine)
+2. Record all IP addresses
+3. Give the first IP address in a given set to the router
+
+### Troubleshooting Checklist
+1. Ensure all hardware is plugged in and turned on
+2. Ensure all cables are plugged in securely
+3. Check firewall settings to ensure that it is not blocking connections
+4. Check for typos in IP addresses
+5. Restart the needed device(s)
+6. Verify connection using ping
+
+## Retrospective
+
+  Building a network reminded me a lot of building a PC like I did in high school: although all the different parts seem daunting at first, connecting and configuring them is simple to do with clear instructions. 
