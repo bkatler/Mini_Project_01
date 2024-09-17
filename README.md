@@ -45,5 +45,5 @@
 6. Verify connection using ping
 
 ## Retrospective
-
-  Building a network reminded me a lot of building a PC like I did in high school: although all the different parts seem daunting at first, connecting and configuring them is simple to do with clear instructions. 
+    
+  
